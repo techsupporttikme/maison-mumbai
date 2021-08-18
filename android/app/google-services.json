@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647561729492",
+    "project_id": "maison-mumbai-5d1cd",
+    "storage_bucket": "maison-mumbai-5d1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647561729492:android:894ebe8edfae6f9d5c3241",
+        "android_client_info": {
+          "package_name": "com.tikme.maisonmumbaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647561729492-jd7nah6k9j8l1gjl1d1jp1is65v93bcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGWFEZ8Sv1YDxxAWQ5ZDsMAbxZCiux7H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647561729492-jd7nah6k9j8l1gjl1d1jp1is65v93bcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
